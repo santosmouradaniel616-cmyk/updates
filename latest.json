@@ -1,8 +1,8 @@
 {
-    "version_code":  49,
-    "version_name":  "9.7",
-    "notes":  "Fix: Adicionado FLAG_GRANT_WRITE_URI_PERMISSION para install via FileProvider",
+    "version_code":  50,
+    "version_name":  "9.8",
+    "notes":  "Fix: Download com redirect, cache-control + logs de erro",
     "size_bytes":  4427545,
-    "sha256":  "e299653e2b57a94cadd43ac0c4af9dfea7de488f9ecfb07785699e4d531773eb",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.7.apk"
+    "sha256":  "ae87189e4ce908f76df29513cdcaae8a58c9d83febb3c8c0dc58e80932c27d68",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.8.apk"
 }
