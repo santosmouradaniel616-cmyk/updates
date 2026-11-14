@@ -1,8 +1,8 @@
 {
-    "version_code":  47,
-    "version_name":  "9.5",
-    "notes":  "Versao 9.5 para teste de update 9.4 -\u003e 9.5",
+    "version_code":  48,
+    "version_name":  "9.6",
+    "notes":  "Fix: FileProvider authority correto para updates (.updates)",
     "size_bytes":  4427545,
-    "sha256":  "ea6ffc0812b7f4e2fa90245d1b8cbfadf506f7dac7a10c3deb64f9d2a6f11732",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.5.apk"
+    "sha256":  "964a36b3139cd5f8633871f0d3dcafc26fe7201a42a3b610c56d5866c5f8a6b3",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.6.apk"
 }
