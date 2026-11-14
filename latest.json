@@ -1,8 +1,8 @@
 {
-    "version_code":  38,
-    "version_name":  "8.6",
-    "notes":  "Corrigido de vez: o app agora ignora o cache do GitHub Pages (max-age 600s) e sempre busca a versao mais nova no servidor. Antes, o celular podia usar uma resposta antiga por 10 minutos.",
+    "version_code":  39,
+    "version_name":  "8.7",
+    "notes":  "Corrigido o aviso que nao aparecia: o dialogo era descartado em silencio quando a tela estava sendo recriada (isFinishing). Agora so desiste se a tela foi realmente destruida. Adicionado log de diagnostico.",
     "size_bytes":  4427545,
-    "sha256":  "771fd3dabd35708b4f06ca24cb7c6a7878a697afa72421315c41448421c3a8d9",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v8.6.apk"
+    "sha256":  "7e142d94614bedfc6b3a57d25d2f7366ac6a248d0418570f7552cf8d94373c92",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v8.7.apk"
 }
