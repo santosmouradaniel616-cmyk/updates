@@ -1,8 +1,8 @@
 {
-    "version_code":  52,
-    "version_name":  "10.0",
-    "notes":  "Fix: install() antes de dismiss dialog, check isFinishing",
+    "version_code":  54,
+    "version_name":  "10.2",
+    "notes":  "Fix: lambda simplificado para evitar VerifyError",
     "size_bytes":  4427545,
-    "sha256":  "04467c87a456ef840c7e2d3e0a936b9d106f0824ae93129d610aef4b20abda93",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v10.0.apk"
+    "sha256":  "aafeb6e0b88b5fcb44ff99deea6a1d8bae87bf15568adb3ccb7d26183b38dc31",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v10.2.apk"
 }
