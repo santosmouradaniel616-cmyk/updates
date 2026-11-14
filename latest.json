@@ -1,8 +1,8 @@
 {
-    "version_code":  36,
-    "version_name":  "8.4",
-    "notes":  "Sistema de atualizacao automatica verificado ponta a ponta: checagem ao abrir o app, aviso de nova versao e instalacao por cima.",
+    "version_code":  37,
+    "version_name":  "8.5",
+    "notes":  "Corrigido: a verificacao de atualizacao ao reabrir o app esperava 10 minutos, o que escondia versoes recem-publicadas. Agora espera apenas 60 segundos.",
     "size_bytes":  4427545,
-    "sha256":  "8e88758ad894aa761943a1d9fc1e399a2cd369385f78289a814caa13132ee0f6",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v8.4.apk"
+    "sha256":  "37a686a5256b91e47d1594a1dbb7630e3671e0af8bcc3549a82f9e9d6db554b7",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v8.5.apk"
 }
