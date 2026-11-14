@@ -1,8 +1,8 @@
 {
-    "version_code":  43,
-    "version_name":  "9.1",
-    "notes":  "Check direto no onCreate (estilo Will boot 5.0)",
+    "version_code":  44,
+    "version_name":  "9.2",
+    "notes":  "UpdateChecker usa URL correta do GitHub Pages",
     "size_bytes":  4427545,
-    "sha256":  "5b95818fe1e68f8535dad47239bbd85e8b448b74d4efe58d04440897cf90785d",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.1.apk"
+    "sha256":  "ff6735b31161cce101e01bee9acd7b90577ceae867417d41f5d7a6f2307f578f",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.2.apk"
 }
