@@ -1,8 +1,8 @@
 {
-    "version_code":  46,
-    "version_name":  "9.4",
-    "notes":  "Fix: UpdateChecker.check() agora inicia thread corretamente",
+    "version_code":  47,
+    "version_name":  "9.5",
+    "notes":  "Versao 9.5 para teste de update 9.4 -\u003e 9.5",
     "size_bytes":  4427545,
-    "sha256":  "5ef6a1cf5d69557017e8734dd1db08551e98fe850e079ecfbf03098b114c6239",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.4.apk"
+    "sha256":  "ea6ffc0812b7f4e2fa90245d1b8cbfadf506f7dac7a10c3deb64f9d2a6f11732",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.5.apk"
 }
