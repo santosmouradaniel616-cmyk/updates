@@ -1,8 +1,8 @@
 {
-    "version_code":  50,
-    "version_name":  "9.8",
-    "notes":  "Fix: Download com redirect, cache-control + logs de erro",
+    "version_code":  51,
+    "version_name":  "9.9",
+    "notes":  "Fix: install() com try/catch, check arquivo, isFinishing, logs",
     "size_bytes":  4427545,
-    "sha256":  "ae87189e4ce908f76df29513cdcaae8a58c9d83febb3c8c0dc58e80932c27d68",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.8.apk"
+    "sha256":  "2245182d32835d3e659a9e44f84b30d6916cd03fa124b8c15091b5a5b7c86fff",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.9.apk"
 }
