@@ -1,8 +1,8 @@
 {
-    "version_code":  37,
-    "version_name":  "8.5",
-    "notes":  "Corrigido: a verificacao de atualizacao ao reabrir o app esperava 10 minutos, o que escondia versoes recem-publicadas. Agora espera apenas 60 segundos.",
+    "version_code":  38,
+    "version_name":  "8.6",
+    "notes":  "Corrigido de vez: o app agora ignora o cache do GitHub Pages (max-age 600s) e sempre busca a versao mais nova no servidor. Antes, o celular podia usar uma resposta antiga por 10 minutos.",
     "size_bytes":  4427545,
-    "sha256":  "37a686a5256b91e47d1594a1dbb7630e3671e0af8bcc3549a82f9e9d6db554b7",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v8.5.apk"
+    "sha256":  "771fd3dabd35708b4f06ca24cb7c6a7878a697afa72421315c41448421c3a8d9",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v8.6.apk"
 }
