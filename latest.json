@@ -1,8 +1,8 @@
 {
-    "version_code":  48,
-    "version_name":  "9.6",
-    "notes":  "Fix: FileProvider authority correto para updates (.updates)",
+    "version_code":  49,
+    "version_name":  "9.7",
+    "notes":  "Fix: Adicionado FLAG_GRANT_WRITE_URI_PERMISSION para install via FileProvider",
     "size_bytes":  4427545,
-    "sha256":  "964a36b3139cd5f8633871f0d3dcafc26fe7201a42a3b610c56d5866c5f8a6b3",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.6.apk"
+    "sha256":  "e299653e2b57a94cadd43ac0c4af9dfea7de488f9ecfb07785699e4d531773eb",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.7.apk"
 }
