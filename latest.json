@@ -1,8 +1,8 @@
 {
-    "version_code":  42,
-    "version_name":  "9.0",
-    "notes":  "Cooldown reduzido para 5s",
+    "version_code":  43,
+    "version_name":  "9.1",
+    "notes":  "Check direto no onCreate (estilo Will boot 5.0)",
     "size_bytes":  4427545,
-    "sha256":  "03c60be57fb2f9db30cc1eb4da56ccf3ac1f0f55f226550bf28aebfe25928317",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.0.apk"
+    "sha256":  "5b95818fe1e68f8535dad47239bbd85e8b448b74d4efe58d04440897cf90785d",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.1.apk"
 }
