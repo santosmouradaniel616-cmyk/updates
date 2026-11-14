@@ -1,8 +1,8 @@
 {
-    "version_code":  44,
-    "version_name":  "9.2",
-    "notes":  "UpdateChecker usa URL correta do GitHub Pages",
+    "version_code":  46,
+    "version_name":  "9.4",
+    "notes":  "Fix: UpdateChecker.check() agora inicia thread corretamente",
     "size_bytes":  4427545,
-    "sha256":  "ff6735b31161cce101e01bee9acd7b90577ceae867417d41f5d7a6f2307f578f",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.2.apk"
+    "sha256":  "5ef6a1cf5d69557017e8734dd1db08551e98fe850e079ecfbf03098b114c6239",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.4.apk"
 }
