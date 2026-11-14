@@ -1,8 +1,8 @@
 {
-    "version_code":  51,
-    "version_name":  "9.9",
-    "notes":  "Fix: install() com try/catch, check arquivo, isFinishing, logs",
+    "version_code":  52,
+    "version_name":  "10.0",
+    "notes":  "Fix: install() antes de dismiss dialog, check isFinishing",
     "size_bytes":  4427545,
-    "sha256":  "2245182d32835d3e659a9e44f84b30d6916cd03fa124b8c15091b5a5b7c86fff",
-    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v9.9.apk"
+    "sha256":  "04467c87a456ef840c7e2d3e0a936b9d106f0824ae93129d610aef4b20abda93",
+    "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v10.0.apk"
 }
