@@ -1,8 +1,8 @@
 {
     "version_code":  54,
     "version_name":  "10.2",
-    "notes":  "Fix: lambda simplificado para evitar VerifyError",
+    "notes":  "Fix: Instalador e FileProvider corrigidos. Atualizacao 100% funcional sem crash.",
     "size_bytes":  4427545,
-    "sha256":  "aafeb6e0b88b5fcb44ff99deea6a1d8bae87bf15568adb3ccb7d26183b38dc31",
+    "sha256":  "58268ed01c6d032892f8d23431e0b35282f87dd1127b3e22aa07d42d1e8b84b4",
     "url":  "https://santosmouradaniel616-cmyk.github.io/updates/DanielbootXT_v10.2.apk"
 }
